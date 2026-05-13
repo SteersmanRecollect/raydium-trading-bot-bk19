@@ -1,4 +1,4 @@
-# 
+# instant trader joe trading bot Addon | slippage-control + token-launch-monitoring is the best trader joe trading bot, featuring slippage-control and token-launch-monitoring.
 
 
 
